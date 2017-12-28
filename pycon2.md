@@ -31,7 +31,7 @@ kubernetes along with the benefits of deploying deep learning pipelines on a kub
 
 2. Overview to deep learning with Tensorflow (5 Minutes)
 
-I will then cover the basics of a typical machine learning implementation using tensorflow with alot of details on building and serving tensorflow models. The key concepts on servables, servable verions, servable streams, models. loaders, sources, aspired versions and managers shall be discussed along with the general lifecycle of servable. Under this I  willcover the folowing topics.
+I will then cover the basics of a typical machine learning implementation using tensorflow with alot of details on building and serving tensorflow models. The key concepts on servables, servable verions, servable streams, models. loaders, sources, aspired versions and managers shall be discussed along with the general life cycle of servable. Under this I  will cover the folowing topics.
   - Architecture of tensorflow serving
   - Serving tensorflow models
   - Building a basic tensorflow ModelServer
@@ -46,8 +46,8 @@ I will finally cover how to run a deep learning training on a kubernetes cluster
 
 ## Additional notes 
 
-I share my experience working on open source projects. I have authored an articles on the subject for the Apress blog and  another on opensource.com.
+I share my experience working on open source projects. I am authoring  an article on the subject that will be published shortly on the Apress blog and  another on opensource.com. From the blog on Apress, I was also requested to author a small book on python and kubernetes by the Apress acquisitions editor.
 
-I am a regular speaker at both local (uganda, kenya) and international conferences. I give mostly technical talks on the python at conferences like PyconZA in south Africa among others. I have shared a link to some of the recorded talks on youtube.
+I am a regular speaker at both local (uganda, kenya) and international conferences. I give mostly technical talks on the python at conferences like PyconZA in south Africa among others. I have shared a link to some of my recorded talks on youtube
 
 https://www.youtube.com/results?search_query=Joannah+Nanjekye
