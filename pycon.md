@@ -33,8 +33,8 @@ At the end of this talk, you will be able to understand how to deploy a python a
 
 ## Additional notes 
 
-I share my experience working on open source projects. I have authored an articles on the subject for the Apress blog and  another on opensource.com.
+I share my experience working on open source projects. I am authoring an article on the subject that will be published shortly on the Apress blog and another on opensource.com. From the blog on Apress, I was also requested to author a small book on python and kubernetes by the Apress acquisitions editor.
 
-I am a regular speaker at both local (uganda, kenya) and international conferences. I give mostly technical talks on the python at conferences like PyconZA in south Africa among others. I have shared a link to some of the recorded talks on youtube.
+I am a regular speaker at both local (uganda, kenya) and international conferences. I give mostly technical talks on the python at conferences like PyconZA in south Africa among others. I have shared a link to some of my recorded talks on youtube
 
 https://www.youtube.com/results?search_query=Joannah+Nanjekye
