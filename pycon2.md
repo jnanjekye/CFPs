@@ -8,9 +8,8 @@ Setting up a python deep learning pipeline on kubernetes
 
 ## Description 
 
-Machine learning in python involves creating and training models on a dataset . These models are eventually deployed to production
-to serve different user needs and requests. Using python, deep learning pipelines implemented with tensorflow can be deployed to a 
-single server depending on complexity and the model but deploying them to a kubernetes cluster gives us more benefits and results.
+Machine learning involves creating and training models on a dataset . These models are eventually deployed to production
+to serve different user needs and requests. Using python, deep learning pipelines implemented with tensorflow can be deployed to a single server depending on complexity and the model but deploying them to a kubernetes cluster gives us more benefits and results.
 
 This talk shall cover details with a demo on how to implement and deploy a python deep learning pipeline on kubernetes using 
 tensor flow an open source deep learning infrastructure.At the end of this talk, you will understand how to use kubernetes 
@@ -32,9 +31,7 @@ kubernetes along with the benefits of deploying deep learning pipelines on a kub
 
 2. Overview to deep learning with Tensorflow (5 Minutes)
 
-I will then cover the basics of a typical machine learning implementation using tensorflow with alot of details on building and serving
-tensorflow models. The key concepts on servables, servable verions, servable streams, models. loaders, sources, aspired versions and 
-managers shall be discussed along with the general lifecycle of servable. Under this I  willcover the folowing topics.
+I will then cover the basics of a typical machine learning implementation using tensorflow with alot of details on building and serving tensorflow models. The key concepts on servables, servable verions, servable streams, models. loaders, sources, aspired versions and managers shall be discussed along with the general lifecycle of servable. Under this I  willcover the folowing topics.
   - Architecture of tensorflow serving
   - Serving tensorflow models
   - Building a basic tensorflow ModelServer
