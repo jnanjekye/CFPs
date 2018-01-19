@@ -21,9 +21,6 @@ At the end of this talk, you will be able to understand how to deploy a python a
 ## Outline 
 
 + Overview of kubernetes
-  + What is kubernetes
-  + Why kubernetes
-  + Requirements for deploying to kubernetes
 + Overview on containerization
   + What are conatiners and why do we need them.
   + Difference between containers and virtualization
